@@ -1,0 +1,24 @@
+swagger: "2.0"
+info: {}
+paths: {}
+definitions:
+  .CarInsurances:
+    type: object
+  .FuneralInsurance:
+    type: object
+  .FuneralInsuranceQuotes:
+    type: object
+  .HomeInsurances:
+    type: object
+  .LifeInsurance:
+    type: object
+  .LifeInsuranceQuotes:
+    type: object
+  .MortgageInsurance:
+    type: object
+  .MortgageInsuranceQuotes:
+    type: object
+  .Profile:
+    type: object
+  .QuoteContactRequest:
+    type: object
